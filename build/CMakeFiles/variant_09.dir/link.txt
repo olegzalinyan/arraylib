@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/variant_09.dir/link.d CMakeFiles/variant_09.dir/examples/variant_09.cpp.o -o variant_09  -Wl,-rpath,/home/OlegZalinyan/projects/my_cpp_project/arraylib/build libarraylib.so
